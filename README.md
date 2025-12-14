@@ -16,7 +16,7 @@ Controlling / Performance Management / Finance Transformation — focused on rep
 Python (pandas, openpyxl), Excel (advanced), SQL (basic), BI/DeltaMaster, ERP/accounting systems
 
 **Featured projects**
-- Fleet invoice allocation automation (Python): *(link here after you create the repo)*
+- Fleet invoice allocation automation (Python): https://github.com/Muhaajaj/fleet-finance-automation
 - Management reporting automation (Python): *(link here after you create the repo)*
 
 Berlin, Germany • English (primary) / German (B2) / Arabic / Spanish
