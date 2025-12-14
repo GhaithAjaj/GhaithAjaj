@@ -1,16 +1,22 @@
-## Hi there 👋
+# Muhammad Ajaj
 
-<!--
-**Muhaajaj/Muhaajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Controlling / Performance Management / Finance Transformation — focused on reporting automation and process improvement.
 
-Here are some ideas to get you started:
+**What I do**
+- Management reporting & cost-center allocations (multi-system environments)
+- Finance process redesign to reduce cycle time and errors
+- Automation for reporting and booking exports using **Python (pandas/openpyxl)** and **Excel**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected impact**
+- Reduced fleet-invoice allocation work (200–250 vehicles) from **3–4 hours to <10 minutes**
+- Reduced cost-center errors by improving fleet master data handover (FleetOnline → Accounting)
+- Automated management reporting by merging exports and calculating KPIs
+
+**Tools**
+Python (pandas, openpyxl), Excel (advanced), SQL (basic), BI/DeltaMaster, ERP/accounting systems
+
+**Featured projects**
+- Fleet invoice allocation automation (Python): *(link here after you create the repo)*
+- Management reporting automation (Python): *(link here after you create the repo)*
+
+Berlin, Germany • English (primary) / German (B2) / Arabic / Spanish
